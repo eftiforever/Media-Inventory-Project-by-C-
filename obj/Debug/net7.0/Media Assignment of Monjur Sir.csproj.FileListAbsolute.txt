@@ -1,0 +1,14 @@
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\obj\Debug\net7.0\Media Assignment of Monjur Sir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\obj\Debug\net7.0\Media Assignment of Monjur Sir.AssemblyInfoInputs.cache
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\obj\Debug\net7.0\Media Assignment of Monjur Sir.AssemblyInfo.cs
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\obj\Debug\net7.0\Media Assignment of Monjur Sir.csproj.CoreCompileInputs.cache
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\bin\Debug\net7.0\Media Assignment of Monjur Sir.exe
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\bin\Debug\net7.0\Media Assignment of Monjur Sir.deps.json
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\bin\Debug\net7.0\Media Assignment of Monjur Sir.runtimeconfig.json
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\bin\Debug\net7.0\Media Assignment of Monjur Sir.dll
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\bin\Debug\net7.0\Media Assignment of Monjur Sir.pdb
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\obj\Debug\net7.0\Media Assignment of Monjur Sir.dll
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\obj\Debug\net7.0\refint\Media Assignment of Monjur Sir.dll
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\obj\Debug\net7.0\Media Assignment of Monjur Sir.pdb
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\obj\Debug\net7.0\Media Assignment of Monjur Sir.genruntimeconfig.cache
+C:\Users\sibga\OneDrive\Desktop\Media Assignment of Monjur Sir\obj\Debug\net7.0\ref\Media Assignment of Monjur Sir.dll
